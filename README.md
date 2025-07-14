@@ -1,5 +1,5 @@
-# compraya.tm.co
-<!DOCTYPE html>
+# ¡compraya!
+<! ELIJE TU ESTILO>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
