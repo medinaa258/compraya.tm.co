@@ -1,5 +1,5 @@
 # ¡compraya!
-<! ELIJE TU ESTILO>
+< ELIJE TU ESTILO>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
