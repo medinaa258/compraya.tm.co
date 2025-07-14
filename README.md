@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>¡Bienvenido a mi página web siuuu!</h1>
-    <p>Esta es una página web de ejemplo.</p>
-</body>
+    <p> ¡REALIZA TU PEDIDO YA!.</p>
+</body> NO TE LO PIERDAS
 </html>
